@@ -6,5 +6,5 @@ Based on various meteorological surveys and people's styles, the bike-sharing se
 
 The company wants to know:-
 
-Which variables are significant in predicting the demand for shared bikes.
-How well those variables describe the bike demands
+1. Which variables are significant in predicting the demand for shared bikes.
+2. How well those variables describe the bike demands
